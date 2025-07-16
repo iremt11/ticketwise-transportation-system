@@ -49,8 +49,8 @@
 
 ## Contributors
 
-- [irem](https://github.com/iremt11) – Developer
-
+- [irem](https://github.com/iremt11) – Frontend Developer
+- [kaan]((https://github.com/Kaanylmzzz)) – Frontend Developer
 
 
 ---
